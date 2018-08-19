@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.solenoid.connector.config.ConnectorProperties",
+      "name": "connector",
+      "type": "com.solenoid.connector.config.ConnectorProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.solenoid.connector.config.ConnectorProperties",
+      "name": "connector.client-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.solenoid.connector.config.ConnectorProperties",
+      "name": "connector.client-secret",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.solenoid.connector.config.ConnectorProperties",
+      "name": "connector.file-directory",
+      "type": "java.lang.String"
+    }
+  ]
+}
